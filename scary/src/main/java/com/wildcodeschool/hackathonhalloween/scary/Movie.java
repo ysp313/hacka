@@ -13,7 +13,7 @@
  * @author : Romain Clair
  *
  */
-package com.wildcodeschool.hackathonhalloween;
+package com.wildcodeschool.hackathonhalloween.scary;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;

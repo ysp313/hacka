@@ -5,7 +5,7 @@
  * 
  * @author : Romain Clair
  */
-package com.wildcodeschool.hackathonhalloween;
+package com.wildcodeschool.hackathonhalloween.scary;
 
 public class Main
 {
